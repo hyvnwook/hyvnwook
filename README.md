@@ -15,7 +15,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/hvunwook/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="32" width="32"/></a>
 &nbsp;
-<a href=hyunwook CV.pdf" target="_blank"><img src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="32" width="32"/></a>
+<a href="https://github.com/hyvnwook/hyvnwook/raw/main/hyunwook CV.pdf" target="_blank"><img src="https://gyeongminn.github.io/logo.ico/cv-light.svg" alt="CV" height="32" width="32"/></a>
 &nbsp;
 <a href="https://github.com/hvunwook" target="_blank"><img src="https://gyeongminn.github.io/logo.ico/github-light.svg" alt="GitHub" height="32" width="32"/></a>
 
