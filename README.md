@@ -4,14 +4,14 @@
 
 I am interested in **digital circuit design, design verification, computer architecture, and hardware accelerators**. My projects focus on implementing datapaths and control logic in Verilog, then examining memory organization, fixed-point precision, and synthesis trade-offs.
 
-[Email](mailto:work.hyunwook@gmail.com) · [CV](hyunwook%20CV.pdf) · [한국어 프로젝트 요약](https://github.com/hyvnwook/vlsi-digital-design/blob/main/README.ko.md)
+[Email](mailto:work.hyunwook@gmail.com) · [CV](hyunwook%20CV.pdf) · [DCT 한국어](https://github.com/hyvnwook/16x16-2d-dct/blob/main/README.ko.md) · [행렬곱 한국어](https://github.com/hyvnwook/64x64-matrix-multiplier/blob/main/README.ko.md)
 
 ## Selected projects
 
 | Project | Focus | My contribution |
 | :--- | :--- | :--- |
-| **[16 × 16 2D-DCT](https://github.com/hyvnwook/vlsi-digital-design/tree/main/dct-2d)** | Shift-add datapath, shared subexpressions, in-place transpose, precision/area trade-offs | Individual VLSI project: RTL, simulation, optimization, and report |
-| **[64 × 64 matrix multiplier](https://github.com/hyvnwook/vlsi-digital-design/tree/main/matrix-multiplier)** | Four parallel MAC lanes, memory addressing, control sequencing | Individual VLSI project: RTL, simulation, synthesis analysis, and report |
+| **[16 × 16 2D-DCT](https://github.com/hyvnwook/16x16-2d-dct)** | Shift-add datapath, shared subexpressions, in-place transpose, precision/area trade-offs | Individual VLSI project: RTL, simulation, optimization, and report |
+| **[64 × 64 matrix multiplier](https://github.com/hyvnwook/64x64-matrix-multiplier)** | Four parallel MAC lanes, memory addressing, control sequencing | Individual VLSI project: RTL, simulation, synthesis analysis, and report |
 | **[FPGA vector dot product](https://github.com/hyvnwook/8element-vector-multiplier)** | Keypad input, controller FSM, memory, 7-segment output | Team project: controller and memory; shared display/top-level integration |
 | **[Multi-robot task allocation](https://github.com/hyvnwook/mrta-scheduling-algorithm)** | C++ exploration, routing, and task scheduling | Team project; project-level details and contributors in the repository |
 
